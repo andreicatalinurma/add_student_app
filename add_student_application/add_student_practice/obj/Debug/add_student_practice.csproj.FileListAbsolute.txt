@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\bin\Debug\add_student_practice.exe.config
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\bin\Debug\add_student_practice.exe
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\bin\Debug\add_student_practice.pdb
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\obj\Debug\add_student_practice.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\obj\Debug\add_student_practice.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\obj\Debug\add_student_practice.exe
+C:\Users\andre\source\repos\add_student_practice\add_student_practice\obj\Debug\add_student_practice.pdb
